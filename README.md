@@ -17,7 +17,10 @@ I am a passionate **AI & Machine Learning enthusiast** with a strong background 
 - Exploring Emerging Technologies
 
 ## GitHub Stats
-![Sudhan's GitHub stats - Current Year](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&hide=stars&hide_title=false&include_all_commits=true&hide=contribs=false&show_yearly=true)
+![Sudhan's GitHub stats - Current Year](https://github-readme-stats.vercel.app/api?username=sudhankandel&show_icons=true&theme=radical&count_private=true&hide=stars&hide_title=false&include_all_commits=true&hide=contribs=false&show_yearly=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhankandel&layout=compact&theme=radical)
 
 ## Let's Connect
 - LinkedIn:[https://www.linkedin.com/in/sudhan-kandel-a09a8315b/]
