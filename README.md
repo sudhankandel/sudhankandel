@@ -20,7 +20,7 @@ I am a passionate **AI & Machine Learning enthusiast** with a strong background 
 ![Sudhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## Let's Connect
-- LinkedIn: [[linkedin.com/in/sudhan-kandel]
+- LinkedIn:[https://www.linkedin.com/in/sudhan-kandel-a09a8315b/]
 - Email: [sudhankandel03@gmail.com]
 - Portfolio: (https://www.sudhankandel.com.np))
 
